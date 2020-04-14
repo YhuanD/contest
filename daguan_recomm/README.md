@@ -1,4 +1,4 @@
-# [达观个性化推荐算法大赛](https://www.kesci.com/home/competition/590a9629812ede32b73ee216)
+# [达观个性化推荐算法大赛](https://www.kesci.com/home/competition/590a9629812ede32b73ee216) (2017)
 ## 赛题介绍
 给定用户三天阅读文章行为历史记录，为给定用户列表推荐五篇文章。  
 给定信息量较少，包括用户发生行为时间，行为类别1-5(action_type)，文章类别(cate_id)，文章id(item_id), 创建时间。 数据均做加密处理。
